@@ -2,5 +2,7 @@
 Basic Python Functions:
 
 -Dictionaries
+
 -Numpy
+
 -Strings
