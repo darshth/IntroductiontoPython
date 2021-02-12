@@ -1,2 +1,6 @@
 # Introduction to Python
-Basic Python Functions
+Basic Python Functions:
+
+-Dictionaries
+-Numpy
+-Strings
